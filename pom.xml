@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.9.RELEASE</version>
+        <version>2.2.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>hu.papirpont</groupId>
     <artifactId>gravir</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>gravir</name>
-    <description>Webshop & graphic editor be.</description>
+    <description>Gravir</description>
 
     <properties>
         <java.version>11</java.version>
